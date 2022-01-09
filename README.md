@@ -1,8 +1,6 @@
 # Shopily-Challenge-Link
 Repo for Spotify challenge
 
-**Disclaimer: The scripts are written  based on my experience in PostGreSQL. Some syntaxes may not match with classic SQL.
-**
 
 **Solutions for the SQL challenges:
 
