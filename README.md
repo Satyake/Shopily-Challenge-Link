@@ -14,9 +14,8 @@ Answer 1
 
 Answer 2
 
-**SELECT employees.lastname,count(orders.orderid) from employees join orders on 
-employees.employeeid=orders.employeeid group by employees.lastname order by count(orders.orderid) desc
-;**
+SELECT lastname,count(orders.orderid) FROM employees join orders on employees.employeeid=orders.employeeid group by lastname order by count(orders.orderid) desc;
+
 **Peacock**
 
 Answer 3
